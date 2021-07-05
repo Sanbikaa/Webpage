@@ -25,5 +25,5 @@ while(Music==true){
 
 var amount = prompt("Sooooo! How many records you want?");
 for(let i = 0; i < amount; i++){
-    document.write("<img src=https://globalnews.ca/wp-content/uploads/2020/02/5e4d53c6702a3.jpg?quality=85&strip=all"); 
+    document.write("<img src='https://images.prismic.io/soundcharts/a86ce57c4723f2a4d96289b0570970059f36b65c_album-audio-classic-1616470.jpg?auto=compress,format'>"); 
 }
